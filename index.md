@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: latticet
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
@@ -22,6 +22,9 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
+    name : zhangyaowen 
+    email : [email](http://zhangyaowenjy@163.com)
+    weibo : [贫僧法号不吃素](http://weibo.com/dollarzhang)
     
 ## Sample Posts
 
