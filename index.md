@@ -22,10 +22,11 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
-    name : zhangyaowen 
-    email : [email](http://zhangyaowenjy@163.com)
-    weibo : [贫僧法号不吃素](http://weibo.com/dollarzhang)
-    
+
+      name : zhangyaowen 
+      email : [email](http://zhangyaowenjy@163.com)
+      weibo : [贫僧法号不吃素](http://weibo.com/dollarzhang)
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
